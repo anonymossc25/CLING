@@ -1,0 +1,13 @@
+venv
+build
+dist
+gs.egg-info
+.vscode
+__pycache__
+*.nsys-rep
+third_party
+datadgl/
+dgl/
+gsampler-artifact-evaluation/
+*dataset*
+*dgl*
