@@ -52,7 +52,7 @@ Download the source files from GitHub:
 
 ```bash
 git clone --recurse-submodules https://github.com/ssecsurendra/CLING.git
-cd dgl_cluster
+cd CLING
 git submodule update --init --recursive
 ```
 
