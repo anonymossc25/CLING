@@ -28,7 +28,7 @@ To quickly set up the exact same environment used in our experiments:
 
 ```bash
 conda env create -f cling.yml
-conda activate dgl-gpu
+conda activate cling
 ```
 
 Then proceed with the build and install:
@@ -52,7 +52,7 @@ Download the source files from GitHub:
 
 ```bash
 git clone --recurse-submodules https://github.com/ssecsurendra/CLING.git
-cd dgl_cluster
+cd CLING
 git submodule update --init --recursive
 ```
 
